@@ -1,6 +1,6 @@
-下载链接：https://github.com/HappyTaoTao15/Image-Organizing-Software/releases/tag/image
+Github下载链接：https://github.com/HappyTaoTao15/Image-Organizing-Software/releases/tag/image
 
-
+蓝奏云下载链接：https://wwnx.lanzouw.com/b00jeiqi2j密码:1234
 
 
 
