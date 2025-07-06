@@ -1,3 +1,9 @@
+下载链接：https://github.com/HappyTaoTao15/Image-Organizing-Software/releases/tag/image
+
+
+
+
+
 中文版介绍：这是一个图片整理软件!（如下图）
 
 
